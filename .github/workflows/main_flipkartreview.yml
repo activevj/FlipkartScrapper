@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'FlipkartReview'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9343E632D3BB442C9F84DF2872D8D5F8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6FE8B0124812476C84F46821F1E83E8F }}
